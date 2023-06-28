@@ -5,9 +5,10 @@
 
 ## Features
 
-- [Jennifer](https://imdrasil.github.io/jennifer.cr/), ORM for Crystal.
-- [rickandmortyapi.com](https://rickandmortyapi.com), API used to get Rick and Morty's locations data with GraphQL
-- Database use PostgreSQL.
+- **Web Framework**: Kemal
+- **ORM**: Jennifer
+- **Database**: PostgreSQL
+- **API Integration**: rickandmortyapi.com with GraphQL
 
 ## Installation
 
