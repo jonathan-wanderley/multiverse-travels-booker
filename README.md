@@ -1,6 +1,6 @@
 <p align="center">
     <img width=150 src="https://play-lh.googleusercontent.com/fXQVXTma1ENwAFjsxJ4IT6GntBr3RxWP3HMSLbNdvycl-0tscOQEeJIEAmehcNOt5hCp=w240-h480-rw" />
-    <h1 align="center">Multiverse Travels Booker API</h1>
+    <h1 align="center">Multiverse Travels Booker API - Rick and Morty</h1>
 </p>
 
 ## Features
